@@ -7349,7 +7349,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .slicknav_nav .slicknav_nav .header-menu-lang-link:hover {
+  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .slicknav_nav .header-menu-lang-link:hover {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
@@ -7357,7 +7357,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .active .header-menu-link {
+  .slicknav_nav .header-menu-item.active .header-menu-link {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
@@ -7459,7 +7459,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .slicknav_nav .header-menu-lang-link:hover {
+  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .header-menu-lang-link:hover {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
@@ -7467,7 +7467,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .active .header-menu-link {
+  .slicknav_nav .header-menu-item.active .header-menu-link {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
@@ -7614,7 +7614,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .slicknav_nav .header-menu-lang-link:hover {
+  .header-wrap.fixed .slicknav_nav .header-menu-link:hover, .header-wrap.fixed .header-menu-lang-link:hover {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
@@ -7622,7 +7622,7 @@ ul.text__article {
     -webkit-border-radius: 0;
     border-radius: 0;
     background: transparent; }
-  .active .header-menu-link {
+  .slicknav_nav .header-menu-item.active .header-menu-link {
     text-decoration: none;
     color: #458fc8;
     -webkit-box-shadow: none;
