@@ -1,0 +1,25 @@
+﻿@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    .slicknav_nav .header-menu-close:hover {
+        background: url("../../img/ic-close-menu-hover.svg") no-repeat center center;
+    }
+}
+
+@media screen and (min-width: 479px) and (max-width: 767px) {
+    .slicknav_nav .header-menu-close:hover {
+        background: url("../../img/ic-close-menu-hover.svg") no-repeat center center;
+    }
+}
+
+@media screen and (min-width: 319px) and (max-width: 478px) {
+    .slicknav_nav .header-menu-close:hover {
+        background: url("../../img/ic-close-menu-hover.svg") no-repeat center center;
+    }
+}
+
+@media screen and (max-height: 380px) and (orientation: landscape) {
+}

@@ -1,0 +1,49 @@
+﻿
+  /*----------Header---------*/
+
+  .header-wrap {
+     &.fixed {
+      .slicknav_icon {
+        background: url(../../img/ic-menu.svg) no-repeat 0 0;
+      }
+    }
+  }
+
+  .header-main {
+    background: url("../../img/bg.jpg") no-repeat;
+  }
+
+
+  .slicknav_menu {
+    .slicknav_icon {
+      background: url(../../img/ic-menu.svg) no-repeat -27px 0;
+    }
+  }
+
+  /*----------Header-End---------*/
+  /*----------Main---------*/
+  /*----------Portfolio---------*/
+
+.prev:active {
+    background: url("../../img/ic-arrow-left-disabled.svg") no-repeat 10px center;
+}
+
+.next:active {
+    background: url("../../img/ic-arrow-right.svg") no-repeat 60px center;
+}
+
+  /*----------About-End--------*/
+  /*----------About-Specialist--------*/
+  .about-specialist {
+    .slick-prev {
+      left: 10px;
+      background: url("../../img/ic-arrow-left-disabled.svg") no-repeat;
+    }
+
+    .slick-next {
+      right: 10px;
+      background: url("../../img/ic-arrow-right.svg") no-repeat;
+    }
+  }
+
+  /*----------About-Specialist-End--------*/
